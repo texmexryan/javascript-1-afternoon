@@ -194,3 +194,9 @@ let innerFn = outerFn()
 //Now invoke innerFn and save the result to a variable called finalResult.
 
 let finalResult = innerFn()
+
+
+// null = something is empty 
+//undefined = something doesnt have a value
+// let = is scoped to where it's defined 
+// const = cannot be changed 
